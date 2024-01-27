@@ -1,0 +1,1 @@
+C:\Users\amirm\OneDrive\Рабочий стол\Практические работы колледж\NewsWeb\news_api\news_api\settings.py
